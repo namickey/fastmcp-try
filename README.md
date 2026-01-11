@@ -157,3 +157,14 @@ geminiの停止
 ```shell
 /quit
 ```
+
+## 参考
+
+> [!NOTE]
+> MCP（Model Context Protocol）の最小動作サンプル  
+> https://zenn.dev/ted99/articles/8e679ad20f4f48  
+>
+> API GatewayとLambdaでリモートMCPサーバーができた！  
+> GitHub Copilot Chatをエージェントモードにし、「calculateツールを使って、 2足す3を実行して」と質問  
+> https://qiita.com/moritalous/items/146095294ec13ae9f9b5#vscode%E3%81%8B%E3%82%89%E6%8E%A5%E7%B6%9A%E7%A2%BA%E8%AA%8D  
+
